@@ -8,11 +8,17 @@ The application features a premium, state-of-the-art dark theme dashboard with d
 
 ## 📸 Screenshots
 
-### 📊 Tab 3: Optimization Results & Flow Visualization
+### 📊 Tab 3: Optimization Results
 ![Milktrix Optimization Dashboard Results](assets/dashboard_main.png)
 
 ### ⚙️ Tab 1: Supply & Capacities Input Configuration
 ![Milktrix Inputs Configuration](assets/dashboard_inputs.png)
+
+### 🗺️ Raw Milk Supply Routing Flow
+![Raw Milk Routing Optimization Flowchart](assets/routing_flow.png)
+
+### 📈 Optimized Product Yields Per Plant
+![Milktrix Optimized Product Yields Chart](assets/product_yields.png)
 
 ---
 
